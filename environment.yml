@@ -1,0 +1,8 @@
+name: haystack
+channels:
+  - main
+  - msys2
+  - conda-forge
+dependencies:
+  - poppler
+  - python

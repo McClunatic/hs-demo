@@ -3,9 +3,11 @@ torch
 torchvision
 torchaudio
 
-farm-haystack
+farm-haystack[ocr]
 
 ipykernel
 ipywidgets
 jupyter
 notebook
+
+pdftotext
